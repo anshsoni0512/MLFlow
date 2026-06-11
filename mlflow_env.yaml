@@ -197,4 +197,3 @@ dependencies:
       - waitress==3.0.0
       - werkzeug==3.0.3
       - wrapt==1.16.0
-prefix: C:\Users\himan\anaconda3\envs\mlflow
